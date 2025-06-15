@@ -1,0 +1,19 @@
+{
+  "name": "weather-info-api",
+  "version": "1.0.0",
+  "description": "Backend Beginner Level Assignment - Weather Information API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.0",
+    "mongoose": "^8.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
